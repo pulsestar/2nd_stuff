@@ -36,13 +36,14 @@ body {
 
 #clear {
     padding: 10px 10px;
-    background-color: #eeff00;
+    background-color: rgb(85, 0, 0);
     color: white;
+    font-size: 20px;
 }
 
 #clear:hover {
     padding: 10px 10px;
-    background-color: #fa4f00;
+    background-color: #000000;
     color: white;
     font-size: 20px;
 }
